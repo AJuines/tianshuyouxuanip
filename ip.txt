@@ -1,4 +1,4 @@
-edgetunnel.xiaohehaha.dpdns.org#订阅域名
+tianshu9.yeliangchen.dpdns.org#订阅域名
 performance.radar.cloudflare.com#优选域名1
 geolocation.onetrust.com#优选域名2
 staging.cloudflare.tv#优选域名3
