@@ -4,3 +4,8 @@ www.namecheap.com
 www.nexusmods.com
 162.159.135.79
 crypto.cloudflare.com
+64.110.104.30#日本-甲骨文机房
+156.230.12.71#上海-263上海通信
+icook.tw:2053#官方优选域名
+104.25.253.105#香港1
+www.visa.com.tw
