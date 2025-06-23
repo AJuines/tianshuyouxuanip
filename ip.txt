@@ -1,5 +1,7 @@
 fbi.gov:2053#美国FBI域名
 104.16.149.244:2053#美国FBI IP
+shopify.com:2053#SHOPIFY.COM域名
+23.227.38.33:2053#SHOPIFY.COM IP
 dynadot.com:2053#域名注册商域名(美国)
 104.16.152.132:2053#域名注册商IP(美国)
 ip.skk.moe:2053#IP查询域名 1(美国)
@@ -14,8 +16,6 @@ www.gco.gov.qa:2053#卡塔尔政府域名(美国)
 104.22.14.132:2053#卡塔尔政府IP(美国)
 www.gov.se:2053#瑞典政府域名(美国)
 104.18.26.94:2053#瑞典政府域名(美国)
-scgo.com:2053#CSGO官方网站(德国)
-64.190.63.222:2053#CSGO官方网站(德国)
 digitalocean.com:2053#DigitalOcean域名(美国)
 104.19.173.68:2053#DigitalOcean域名(美国)
 visa.com:2053#VISA官方网站1(美国)
