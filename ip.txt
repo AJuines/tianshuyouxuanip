@@ -1,4 +1,11 @@
 127.0.0.1:1234#本地连接专用
+fred.ns.cloudflare.com:2053#叶良辰名称服务器1
+magali.ns.cloudflare.com:2053#叶良辰名称服务器2
+meadow.ns.cloudflare.com:2053#Juines名称服务器1
+west.ns.cloudflare.com:2053#Juines名称服务器2
+savanna.ns.cloudflare.com:2053#一万名称服务器1
+trey.ns.cloudflare.com:2053#一万名称服务器2
+fred.ns.cloudflare.com:2053#狠狠名称服务器1
 104.17.58.75:2053#快1
 104.18.84.175:2053#快2
 104.17.101.4:2053#快3
