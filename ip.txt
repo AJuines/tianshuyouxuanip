@@ -1,4 +1,5 @@
 127.0.0.1:1234#本地连接专用
+36.50.90.241:2053#HK-01
 fred.ns.cloudflare.com:2053#叶良辰名称服务器1
 magali.ns.cloudflare.com:2053#叶良辰名称服务器2
 meadow.ns.cloudflare.com:2053#Juines名称服务器1
