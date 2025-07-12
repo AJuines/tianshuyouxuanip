@@ -1,5 +1,12 @@
 127.0.0.1:1234#本地连接专用
 114.32.9.249:16443#（私人专用请勿连接）台湾-台北市
+111.248.11.56:20201#台湾-Taoyuan1
+125.229.214.103:465#台湾-Taoyuan2
+114.34.106.124:10443#台湾-新北市
+122.117.174.80:443#台湾-台南市
+211.75.189.101:995#台湾-台北市1
+61.220.128.226:995#台湾-台北市2
+60.249.114.181:11285#台湾-Taichung City
 yjdx1.wuzw.eu.cc:2053#特电信1-CDN
 172.64.229.235:2053#特电信1
 104.25.0.80:2053#联通1
@@ -7,6 +14,14 @@ yjdx1.wuzw.eu.cc:2053#特电信1-CDN
 104.25.62.0:2053#联通3
 104.25.141.226:2053#联通4
 104.21.76.226:2053#联通5
+cass.ns.cloudflare.com:2053#CF名称服务器1
+dante.ns.cloudflare.com:2053#CF名称服务器2
+margo.ns.cloudflare.com:2053#CF名称服务器3
+stella.ns.cloudflare.com:2053#CF名称服务器4
+alexa.ns.cloudflare.com:2053#CF名称服务器5
+seth.ns.cloudflare.com:2053#CF名称服务器6
+dana.ns.cloudflare.com:2053#CF名称服务器7
+joel.ns.cloudflare.com:2053#CF名称服务器8
 fred.ns.cloudflare.com:2053#叶良辰名称服务器1
 magali.ns.cloudflare.com:2053#叶良辰名称服务器2
 meadow.ns.cloudflare.com:2053#Juines名称服务器1
