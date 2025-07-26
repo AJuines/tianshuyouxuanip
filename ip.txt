@@ -1,5 +1,8 @@
 127.0.0.1:1234#本地连接专用
 pages.dev:443#Pages
+cmliussss.com:443#CM大佬博客域名
+gh.072103.xyz:443#B站1
+gh.afo.im:443#B站2
 cloudflare-ddns.zone.id:2053#三网优化
 36.50.90.241:47790#香港反代1
 195.54.171.57:8443#香港反代2
